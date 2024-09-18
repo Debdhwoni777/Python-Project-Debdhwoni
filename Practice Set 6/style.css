@@ -1,0 +1,19 @@
+div{
+    width: 150px;
+    height: 150px;
+    background-image: url("https://wallpapercave.com/wp/wp3563710.jpg");
+    background-size: cover;
+    border-radius: 50% ;
+}
+@media (min-width:400px)and(max-width:600px){
+    div{
+        background-image: url("https://th.bing.com/th/id/OIP.H1RwsnbsFSMD3spFL2CCzwHaEK?rs=1&pid=ImgDetMain");
+        background-size: cover;
+    }
+}
+/* @media (max-width:400px){
+    div{
+        background-image: url("https://th.bing.com/th/id/OIP.H1RwsnbsFSMD3spFL2CCzwHaEK?rs=1&pid=ImgDetMain");
+        background-size: cover;
+    } */
+

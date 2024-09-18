@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/04/Beautiful-Plain-Website-Background.jpg");
+    background-size:auto;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border: 10px solid black;
+    display: inline-block;
+    border-radius: 50%;
+}
+#box1{
+    background-image: url("https://th.bing.com/th?id=OIF.fDP6bcBkw9JYu8u6%2b3FTHA&rs=1&pid=ImgDetMain") ;
+    background-size: cover ;
+    
+}
+#box2{
+    background-image: url("https://th.bing.com/th/id/OIF.O3eDKfv0K4duI9bJpcVbQA?rs=1&pid=ImgDetMain");
+    background-size: cover;
+}
+#box3{
+    background-image: url("https://e2.365dm.com/24/06/1600x900/skysports-virat-kohli-india-vs-south-africa_6594446.jpg");
+    background-size: cover;
+}
+#box4{
+    background-image: url("https://th.bing.com/th/id/OIP.rFAAhmcpVzM81PNDhBsRDQHaEK?rs=1&pid=ImgDetMain");
+    background-size: cover;
+}

@@ -1,0 +1,19 @@
+.loader{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 20px solid yellow;
+    border-top: 20px solid red ;
+    border-bottom: 20px solid red;
+    animation: loader 3s ease-in 0s infinite normal;
+
+}
+
+@keyframes loader{
+    from{
+        transform: rotate(0deg);
+    } 
+    to{
+        transform: rotate(360deg);
+    }
+}

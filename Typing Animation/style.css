@@ -1,0 +1,29 @@
+html{
+    min-height: 100%;
+    overflow: hidden;
+}
+body{
+    color: gray;
+    font-family: "monospace";
+    background-color: rgb(20,20,20);
+}
+.container{
+    display: inline-block;
+    margin: 20%;
+}
+.text{
+    overflow: hidden;
+    font-size: 3.6rem;
+    font-weight: 700;
+    border-right: 0.15em solid orange;
+    white-space: nowrap;
+}
+@keyframes typing{
+    from{
+        width: 100%;
+
+    }
+    to{
+        width: 100%;
+    }
+}
